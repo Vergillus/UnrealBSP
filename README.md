@@ -11,7 +11,7 @@ Locate the actor that is responsible of creating BPS (DungeonCreato_BP in this c
 After that change the parameters in map settings <br>
 ![](https://github.com/Vergillus/UnrealBSP/blob/main/Screenshots/SS_02.png)
 
-And press play.
+And press simulate to see the map more easily.
 
 ![](https://github.com/Vergillus/UnrealBSP/blob/main/Screenshots/SS_04.png)
 
